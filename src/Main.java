@@ -12,10 +12,10 @@ public class Main {
         System.out.println("Задача 1");
         int clientOS = 0;
         if (clientOS == 1) {
-            System.out.println("Установите версию приложения для Android по ссылке");
+            System.out.println("Установите версию приложения для Android по ссылке.");
         } else {
             if (clientOS == 0) {
-                System.out.println("Установите версию приложения для iOS по ссылке");
+                System.out.println("Установите версию приложения для iOS по ссылке.");
             }
         }
         System.out.println();
